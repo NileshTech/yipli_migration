@@ -1,0 +1,20 @@
+{
+    "dart.flutterSdkPath": "/Users/sangrammohite/Desktop/fluttersdk/flutter",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#388ff9",
+        "activityBar.activeBorder": "#fdc1dc",
+        "activityBar.background": "#388ff9",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#fdc1dc",
+        "activityBarBadge.foreground": "#15202b",
+        "statusBar.background": "#0773f7",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#388ff9",
+        "titleBar.activeBackground": "#0773f7",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#0773f799",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#0773F7"
+}
